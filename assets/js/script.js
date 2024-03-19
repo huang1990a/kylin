@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------
 
 Template Name:  Devgren - Gardening and Landscaping HTML Template
-¸ü¶àÏÂÔØ£ºHttp://www.bootstrapmb.com
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø£ï¿½Http://www.bootstrapmb.com
 Version: 1.0.0
 Description: Devgren - Gardening and Landscaping HTML Template
 
@@ -484,7 +484,7 @@ CSS TABLE OF CONTENTS
 		speed: 500,
 		grabCursor: true,
 		autoplay: {
-			delay: 3000,
+			delay: 300000,
 			disableOnInteraction: false,
 		},
 		pagination: {
