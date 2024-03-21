@@ -2124,6 +2124,11 @@ input {
         opacity: 0;
         visibility: hidden;
     }
+    
+    main .breadcum {
+        padding: 100px 0;
+    }
+    
 }
 
 .header-wrapper .main-menu li .sub-menu li {
@@ -7796,8 +7801,11 @@ input {
     }
 }
 
-
-
+/*首字母非大写*/
 .no-capitalize {
     text-transform: none;
 }
+
+
+
+
