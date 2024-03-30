@@ -361,7 +361,10 @@ a:hover {
     transition: all .4s ease
 }
 
-section {
+/*section {*/
+/*    padding: 50px 0*/
+/*}*/
+.service-details {
     padding: 50px 0
 }
 

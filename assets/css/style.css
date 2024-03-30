@@ -2787,8 +2787,11 @@ input {
     opacity: 1;
     z-index: -2;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    /*background-position: center center;*/
+    /*background-size: cover;*/
+    background-position: right center;
+    background-size: contain;
+    background-color: #ffffff;
     transform: scale(1);
     -webkit-transition: all 8s ease-out 0s;
     -moz-transition: all 8s ease-out 0s;
@@ -4570,7 +4573,8 @@ input {
 
 .testimonial__item {
     background-color: var(--white);
-    min-height: 420px;
+    /*min-height: 420px;*/
+    min-height: 320px;
 }
 
 .testimonial__item-head {
