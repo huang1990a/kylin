@@ -2787,10 +2787,8 @@ input {
     opacity: 1;
     z-index: -2;
     background-repeat: no-repeat;
-    /*background-position: center center;*/
-    /*background-size: cover;*/
-    background-position: right center;
-    background-size: contain;
+    background-position: center center;
+    background-size: cover;
     background-color: #ffffff;
     transform: scale(1);
     -webkit-transition: all 8s ease-out 0s;
@@ -2996,6 +2994,21 @@ input {
     visibility: visible;
     opacity: 1;
 }
+
+.banner-top{
+    width: 100%;
+    /*height: 500px;*/
+    padding-top: 150px;
+    padding-bottom: 180px;
+    background-image: url(../../assets/img/banner-top.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+/*.banner-top h1{*/
+/*    color: #ffffff;*/
+/*    text-align: center;*/
+/*}*/
 
 .page-banner {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../assets/images/banner/page-banner.jpg);
