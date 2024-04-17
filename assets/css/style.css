@@ -3921,6 +3921,7 @@ input {
 .accordion .accordion-item .accordion-body {
     border: 1px solid var(--primary-color);
     padding: 20px 30px;
+    min-height: 200px;
 }
 
 .accordion .accordion-button {
